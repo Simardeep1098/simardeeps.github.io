@@ -14,8 +14,8 @@ I am an aspiring IT professional with a strong passion for cybersecurity and clo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Simardeep1098/SOC-Deployment/tree/main">SOC Deployment</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Simardeep1098/SOC-Deployment/tree/main">SOC Deployment</a> |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab          |
 | Incident Response Planning and Execution      | SOC Automation Lab          |
 | Case Management with TheHive                  | SOC Automation Lab          |
@@ -46,5 +46,5 @@ I am an aspiring IT professional with a strong passion for cybersecurity and clo
 Currently preparing for CompTIA Security+
 
 ## Projects
-- [Detection Lab](https://google.com)
+- [SOC Deployment](https://github.com/Simardeep1098/SOC-Deployment/tree/main)
 - SOC Automation Project
