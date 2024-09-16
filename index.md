@@ -14,9 +14,9 @@ I am an aspiring IT professional with a strong passion for cybersecurity and clo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Simardeep1098/SOC-Deployment/tree/main">SOC Deployment</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Simardeep1098/SOC-Deployment/tree/main">SOC Deployment</a> |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab          |
+| SIEM Deployment and Configuration	          | <a href="https://github.com/Simardeep1098/SOC-Deployment/tree/main">SOC Deployment</a> |
+| Threat Intelligence Integration              | <a href="https://github.com/Simardeep1098/SOC-Deployment/tree/main">SOC Deployment</a> |
+| Log Analysis and Security Event Monitoring         | <a href="https://github.com/Simardeep1098/SOC-Deployment/tree/main">SOC Deployment</a>          |
 | Incident Response Planning and Execution      | SOC Automation Lab          |
 | Case Management with TheHive                  | SOC Automation Lab          |
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab          |
