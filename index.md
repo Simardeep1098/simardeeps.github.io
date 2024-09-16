@@ -2,10 +2,7 @@
 layout: default
 ---
 
-# Hello, I'm Simardeep Singh
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-Welcome to my cybersecurity portfolio, where I showcase my expertise, projects, and learnings in cybersecurity. I am passionate about protecting systems and networks from ever-evolving threats.
 
 ## Objective
 
