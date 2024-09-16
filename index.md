@@ -4,9 +4,9 @@ layout: default
 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Objective
+## About Me
 
-My goal is to transition into the cybersecurity field, specifically in a Security Operations Center (SOC) role as a Tier 1 Analyst, where I can apply my knowledge to safeguard critical systems.
+I am an aspiring IT professional with a strong passion for cybersecurity and cloud infrastructure. I am actively pursuing junior-level opportunities in cybersecurity, where I can apply my technical skills and grow in this rapidly evolving field. Driven by curiosity and a commitment to solving complex challenges, my goal is to contribute to innovative teams, helping businesses enhance their security posture and optimize cloud solutions, while continuously expanding my expertise in IT security and cloud technologies.
 
 ## Skills
 
