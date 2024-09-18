@@ -1,4 +1,4 @@
----
+a---
 layout: default
 ---
 <div>
@@ -14,7 +14,7 @@ I am an aspiring IT professional with a strong passion for cybersecurity and clo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Deployment and Configuration	          | <a href="soc-deployment.github.io/">SOC Deployment</a> |
+| SIEM Deployment and Configuration	          | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/) |
 | Threat Intelligence Integration              | <a href="soc-deployment.github.io/">SOC Deployment</a> |
 | Log Analysis and Security Event Monitoring         | <a href="soc-deployment.github.io/">SOC Deployment</a>          |
 | Incident Response Planning and Execution      | SOC Automation Lab          |
