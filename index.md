@@ -17,8 +17,8 @@ I am an aspiring IT professional with a strong passion for cybersecurity and clo
 | SIEM Deployment and Configuration	          | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/) |
 | Threat Intelligence Integration              | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/) |
 | Log Analysis and Security Event Monitoring         | <a href="https://simardeep1098.github.io/soc-deployment.github.io/" target="_blank"><button>SOC Deployment</button></a>          |
-| Incident Response Planning and Execution      | SOC Automation Lab          |
-| Case Management with TheHive                  | SOC Automation Lab          |
+| Splunk Log Integration and Data Ingestion	      | Splunk Log Integration          |
+| Security Event Analysis with Splunk	                  | Splunk Log Integration          |
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab          |
 
 ## Tools
@@ -47,4 +47,4 @@ Currently preparing for CompTIA Security+
 
 ## Projects
 - [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/)
-- SOC Automation Project
+- Splunk Log Integration
