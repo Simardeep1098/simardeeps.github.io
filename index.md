@@ -33,6 +33,10 @@ I am an aspiring IT professional with a strong passion for cybersecurity and clo
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+<div>
+    <img src="https://img.shields.io/badge/-Elastic_Agent-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
+</div>
 
 ### SIEM
 <div>
