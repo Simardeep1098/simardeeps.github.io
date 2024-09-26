@@ -14,7 +14,7 @@ I am an aspiring IT professional with a strong passion for cybersecurity and clo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Deployment and Configuration	                  | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/) [Elastic SIEM Lab](https://simardeep1098.github.io/elastic-siem-lab.github.io/) |
+| SIEM Deployment and Configuration	                  | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/), [Elastic SIEM Lab](https://simardeep1098.github.io/elastic-siem-lab.github.io/) |
 | Threat Intelligence Integration                      | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/) |
 | Log Analysis and Security Event Monitoring/Altering         | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/)          |
 | Data Visualization and Dashboard Creation |                             |
