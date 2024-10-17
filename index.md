@@ -21,7 +21,6 @@ I am an aspiring IT professional with a strong passion for cybersecurity. I am a
 |  |          |
 
 ## Tools
-
 ### Operating Systems & Virtualization
 <div>
     <img src="https://img.shields.io/badge/-Linux_Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
