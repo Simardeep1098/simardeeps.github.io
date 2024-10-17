@@ -8,7 +8,7 @@ layout: default
 
 ## About Me
 
-I am an aspiring IT professional with a strong passion for cybersecurity and cloud infrastructure. I am actively pursuing junior-level opportunities in cybersecurity, where I can apply my technical skills and grow in this rapidly evolving field. Driven by curiosity and a commitment to solving complex challenges, my goal is to contribute to innovative teams, helping businesses enhance their security posture and optimize cloud solutions, while continuously expanding my expertise in IT security and cloud technologies.
+I am an aspiring IT professional with a strong passion for cybersecurity. I am actively pursuing opportunities in cybersecurity, where I can apply my technical skills and grow in this rapidly evolving field. Driven by curiosity and a commitment to solving complex challenges, my goal is to contribute to innovative teams, helping businesses enhance their security posture, while continuously expanding my knowledge in IT security.
 
 ## Skills
 
