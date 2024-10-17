@@ -32,6 +32,7 @@ I am an aspiring IT professional with a strong passion for cybersecurity. I am a
 
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-Windows_Firewall-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
