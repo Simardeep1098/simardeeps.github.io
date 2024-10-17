@@ -36,12 +36,6 @@ I am an aspiring IT professional with a strong passion for cybersecurity. I am a
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic_Agent-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
