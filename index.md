@@ -22,6 +22,14 @@ I am an aspiring IT professional with a strong passion for cybersecurity. I am a
 
 ## Tools
 
+### Operating Systems & Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-Linux_Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Servers-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
