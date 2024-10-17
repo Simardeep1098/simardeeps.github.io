@@ -45,8 +45,8 @@ I am an aspiring IT professional with a strong passion for cybersecurity. I am a
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management_Foundation-005F6C?&style=for-the-badge&logo=qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management_Foundation-005F6C?&style=for-the-badge&logo=qualys&logoColor=white" />
 </div>
 CompTIA Security+ [Expected 12/24]
 
