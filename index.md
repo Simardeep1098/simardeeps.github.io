@@ -29,7 +29,7 @@ A technology aficionado with a real passion for exploring new tools and technolo
 ### Scripting
 <div>
     <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell Icon"/>
-    <img src="https://img.icons8.com/ios-filled/48/000000/console.png" alt="Bash Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash Icon"/>
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon"/>
 </div>
 
@@ -56,7 +56,8 @@ A technology aficionado with a real passion for exploring new tools and technolo
     <img src="https://img.icons8.com/color/48/000000/elk-stack.png" alt="ELK Stack Icon"/>
     <img src="https://img.icons8.com/color/48/000000/firewall.png" alt="Firewall Icon"/>
     <img src="https://img.icons8.com/color/48/000000/elastic-cloud.png" alt="Elastic Cloud Icon"/>
-    <img src="https://img.icons8.com/ios/50/000000/wireshark.png" alt="Wireshark Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark Icon"/>
+
 
 </div>   
   
