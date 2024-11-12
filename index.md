@@ -15,7 +15,7 @@ A technology aficionado with a real passion for exploring new tools and technolo
 |-----------------------------------------------|----------------------------|
 | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/)	   | Azure VM, Sentinel, Azure Monitor Agent    |
 | [Elastic SIEM Lab](https://simardeep1098.github.io/elastic-siem-lab.github.io/)     | Kali Linux, Elastic Stack, VirtualBox   |
-| [Medical Chatbot](https://simardeep1098.github.io/Chatbot_TeamPink/) |         | PHP, MySQL, JavaScript, HTML/CSS             |
+| [Medical Chatbot](https://simardeep1098.github.io/Chatbot_TeamPink/) |       PHP, MySQL, JavaScript, HTML/CSS             |
 |            |                     |
 
 ## Skills
