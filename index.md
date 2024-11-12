@@ -15,14 +15,13 @@ layout: default
 | [Elastic SIEM Lab](https://simardeep1098.github.io/elastic-siem-lab.github.io/)     | Kali Linux, Elastic Stack, VirtualBox   |
 |  |          |
 
-## Tools
+## Skills
 ### OS & Virtualization
 <div>
-    <img src="https://img.shields.io/badge/-Linux_Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Servers-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/virtualbox.png" alt="VirtualBox Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/vmware.png" alt="VMware Icon"/>
 </div>
 
 ### Network
@@ -33,12 +32,8 @@ layout: default
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=flat-square&logo=virtualbox&logoColor=white" />
-    <img src="https://img.icons8.com/color/48/000000/virtualbox.png" alt="VirtualBox Icon"/>
-
+    <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/elastic.png" alt="Elastic Stack Icon"/>
 </div>
 
 
