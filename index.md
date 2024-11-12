@@ -42,6 +42,4 @@ A technology aficionado with a real passion for exploring new tools and technolo
 </div>
 
 
-## Projects
-- [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/)
-- [Elastic SIEM Lab](https://simardeep1098.github.io/elastic-siem-lab.github.io/)
+## P
