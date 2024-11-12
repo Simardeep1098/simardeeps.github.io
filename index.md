@@ -4,8 +4,6 @@ layout: default
 <div>
     <a href="https://www.linkedin.com/in/simardeep1098"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/Simardeep1098"><img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
-    <img src="https://img.icons8.com/color/48/000000/elastic-cloud.png" alt="Elastic Cloud Icon"/>
-
 </div>
 
 ## About
