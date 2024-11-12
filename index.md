@@ -33,6 +33,12 @@ A technology aficionado with a real passion for exploring new tools and technolo
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon"/>
 </div>
 
+### Programming
+<div>
+    <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL Icon"/>
+    
+</div>
+
 ### Security
 <div>
     <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Icon"/>
