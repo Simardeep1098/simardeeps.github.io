@@ -53,6 +53,8 @@ A technology aficionado with a real passion for exploring new tools and technolo
 ### Security
 <div>
     <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Icon"/>
+    <img src="https://img.icons8.com/fluency/48/000000/azure-sentinel.png" alt="Azure Sentinel Icon"/>
+
     <img src="https://img.icons8.com/color/48/000000/elk-stack.png" alt="ELK Stack Icon"/>
     <img src="https://img.icons8.com/color/48/000000/firewall.png" alt="Firewall Icon"/>
     <img src="https://img.icons8.com/color/48/000000/elastic-cloud.png" alt="Elastic Cloud Icon"/>
