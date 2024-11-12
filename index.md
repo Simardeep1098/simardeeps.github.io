@@ -37,6 +37,7 @@ layout: default
     <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=flat-square&logo=virtualbox&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/virtualbox.png" alt="VirtualBox Icon"/>
 
 </div>
 
