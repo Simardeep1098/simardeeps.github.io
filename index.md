@@ -33,10 +33,10 @@ layout: default
 ### SIEM
 <div>
     <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Icon"/>
-    
+ </div>   
     <img src="https://img.icons8.com/color/48/000000/elastic.png" alt="Elastic Stack Icon"/>
     
-</div>
+
 
 
 ## 
