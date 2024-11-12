@@ -21,6 +21,7 @@ A technology aficionado with a real passion for exploring new tools and technolo
 ### OS & Virtualization
 <div>
     <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Icon"/>
     <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux Icon"/>
     <img src="https://img.icons8.com/color/48/000000/virtualbox.png" alt="VirtualBox Icon"/>
     <img src="https://img.icons8.com/color/48/000000/vmware.png" alt="VMware Icon"/>
@@ -52,7 +53,6 @@ A technology aficionado with a real passion for exploring new tools and technolo
 
 ### Security
 <div>
-    <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Icon"/>
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure Icon"/>
     <img src="https://img.icons8.com/color/48/000000/elk-stack.png" alt="ELK Stack Icon"/>
     <img src="https://img.icons8.com/color/48/000000/firewall.png" alt="Firewall Icon"/>
