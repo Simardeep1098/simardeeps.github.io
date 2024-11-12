@@ -55,8 +55,6 @@ A technology aficionado with a real passion for exploring new tools and technolo
 <div>
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure Icon"/>
     <img src="https://img.icons8.com/color/48/000000/firewall.png" alt="Firewall Icon"/>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" alt="Wireshark Icon"/>
-    <img src="https://img.shields.io/badge/Elastic%20Cloud-005571?logo=elastic&logoColor=white&style=for-the-badge" alt="Elastic Cloud Icon"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark Icon" width="40" height="40"/>
 
 
