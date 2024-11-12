@@ -23,6 +23,7 @@ A technology aficionado with a real passion for exploring new tools and technolo
 <div>
     <img src="https://img.shields.io/badge/-Linux_Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows_Servers-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
