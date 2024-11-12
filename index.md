@@ -6,9 +6,6 @@ layout: default
     <a href="https://github.com/Simardeep1098"><img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-## About Me
-
-A technology aficionado with a real passion for exploring new tools and technologies. I’m always learning and enjoy diving into different areas of tech, from troubleshooting to building projects that keep my skills sharp. This portfolio is a collection of what I've been working on and discovering along the way. I’m excited to keep growing, sharing my progress, and connecting with others who share this same curiosity for all things tech!
 
 ## Projects
 
