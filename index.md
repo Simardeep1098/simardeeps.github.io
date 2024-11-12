@@ -34,7 +34,8 @@ layout: default
 <div>
     <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Icon"/>
  </div>   
-    <img src="https://img.icons8.com/color/48/000000/elastic.png" alt="Elastic Stack Icon"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Elastic_Logo.svg/48px-Elastic_Logo.svg.png" alt="Elastic Stack Icon"/>
+
     
 
 
