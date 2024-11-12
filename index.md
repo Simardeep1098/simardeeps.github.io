@@ -4,6 +4,8 @@ layout: default
 <div>
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon"/>
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon"/>
+
 
 </div>
 
