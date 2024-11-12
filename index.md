@@ -42,6 +42,8 @@ A technology aficionado with a real passion for exploring new tools and technolo
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon"/>
     <img src="https://img.icons8.com/color/48/000000/deno.png" alt="Deno Icon"/>
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Icon"/>
+
 
 </div>
 
