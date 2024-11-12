@@ -36,6 +36,7 @@ A technology aficionado with a real passion for exploring new tools and technolo
 ### Programming
 <div>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure Icon"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon"/>
