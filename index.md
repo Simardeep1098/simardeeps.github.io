@@ -2,8 +2,8 @@
 layout: default
 ---
 <div>
-    <img src="https://img.icons8.com/fluency/50/linkedin.png" alt="LinkedIn Icon"/>
-    <img src="https://img.icons8.com/plasticine/70/github.png" alt="GitHub Icon"/>
+    <img src="https://img.icons8.com/fluency/60/linkedin.png" alt="LinkedIn Icon"/>
+    <img src="https://img.icons8.com/plasticine/60/github.png" alt="GitHub Icon"/>
 
 
 </div>
