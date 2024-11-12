@@ -12,12 +12,10 @@ A technology aficionado with a real passion for exploring new tools and technolo
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Projects                                         | Tools & Technologies         |
 |-----------------------------------------------|----------------------------|
-| SIEM Deployment and Configuration	   | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/) , [Elastic SIEM Lab](https://simardeep1098.github.io/elastic-siem-lab.github.io/) |
-| Threat Intelligence Integration     | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/) , [Elastic SIEM Lab](https://simardeep1098.github.io/elastic-siem-lab.github.io/) |
-| Log Analysis and Security Event Monitoring/Altering | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/) , [Elastic SIEM Lab](https://simardeep1098.github.io/elastic-siem-lab.github.io/)|
-| Data Visualization and Dashboard Creation | [Elastic SIEM Lab](https://simardeep1098.github.io/elastic-siem-lab.github.io/)                            |
+| [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/)	   | Azure VM, Sentinel, Azure Monitor Agent    |
+| [Elastic SIEM Lab](https://simardeep1098.github.io/elastic-siem-lab.github.io/)     | Kali Linux, Elastic Stack, VirtualBox   |
 |  |          |
 
 ## Tools
