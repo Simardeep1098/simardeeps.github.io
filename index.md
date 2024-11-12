@@ -38,7 +38,7 @@ A technology aficionado with a real passion for exploring new tools and technolo
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Icon"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon"/>
-    <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon"/>
     <img src="https://img.icons8.com/color/48/000000/deno.png" alt="Deno Icon"/>
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Icon"/>
 
