@@ -35,7 +35,7 @@ A technology aficionado with a real passion for exploring new tools and technolo
 
 ### Programming
 <div>
-    <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL Icon"/>
+    <img src="https://img.icons8.com/ios/50/000000/database.png" alt="SQL Cylindrical Icon"/>
     
 </div>
 
