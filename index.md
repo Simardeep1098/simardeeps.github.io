@@ -42,12 +42,6 @@ I'm a technology aficionado with a real passion for exploring new tools and tech
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management_Foundation-005F6C?&style=for-the-badge&logo=qualys&logoColor=white" />
-</div>
-CompTIA Security+ [Expected 12/24]
 
 ## Projects
 - [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/)
