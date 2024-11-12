@@ -33,8 +33,8 @@ layout: default
 ### SIEM
 <div>
     <img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Icon"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ElasticSearch_logo_2010.svg/48px-ElasticSearch_logo_2010.svg.png" alt="ELK Stack Icon"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elastic_Cloud_logo.svg/48px-Elastic_Cloud_logo.svg.png" alt="Elastic Cloud Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/elk-stack.png" alt="ELK Stack Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/elastic-cloud.png" alt="Elastic Cloud Icon"/>
 
  </div>   
   
