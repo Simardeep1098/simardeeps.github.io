@@ -37,7 +37,7 @@ A technology aficionado with a real passion for exploring new tools and technolo
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon"/>
 </div>
 
-### Programming
+### Software Development
 <div>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML Icon"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon"/>
@@ -47,6 +47,12 @@ A technology aficionado with a real passion for exploring new tools and technolo
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Icon"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Icon"/>
     <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP Icon"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon"/>
+</div>
+
+### Version Control
+<div>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon"/>
 </div>
 
 ### Databases
