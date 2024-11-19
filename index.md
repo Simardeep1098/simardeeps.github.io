@@ -13,6 +13,7 @@ A technology aficionado with a real passion for exploring new tools and technolo
 
 | Projects                                         | Tools & Technologies         |
 |-----------------------------------------------|----------------------------|
+|  [World Clock React App](https://github.com/Simardeep1098/world-clock)       |   React, Tailwind CSS, Git                 |
 | [SOC Deployment](https://simardeep1098.github.io/soc-deployment.github.io/)	   | Azure VM, Sentinel, Azure Monitor Agent    |
 | [Medical Chatbot](https://simardeep1098.github.io/Chatbot_TeamPink/) |       PHP, MySQL, JavaScript             |
 | [Company Management Program](https://simardeep1098.github.io/CompanyManagementProgram/)     |   Java, GitHub, Eclipse IDE            |
