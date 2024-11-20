@@ -60,7 +60,7 @@ A technology aficionado with a real passion for exploring new tools and technolo
     <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL Icon"/>
 </div>
 
-### Security
+### Cloud & Security
 <div>
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure Icon"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark Icon" width="40" height="40"/>
@@ -71,7 +71,3 @@ A technology aficionado with a real passion for exploring new tools and technolo
   
 
     
-
-
-
-## 
