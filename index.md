@@ -69,5 +69,6 @@ A technology aficionado with a real passion for exploring new tools and technolo
   
 ### Personal Note
 This portfolio is a reflection of my personal journey in technology, fueled by a constant curiosity about how various tools and systems work. It’s a space for me to explore, learn, and keep track of the projects that inspire me. 
+
 While not aimed at any specific job or role, this portfolio represents my passion for learning, problem-solving, and a enthusiasm for technology. I'm always excited to uncover new possibilities and expand my understanding of this ever-evolving field.
     
