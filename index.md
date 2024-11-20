@@ -63,7 +63,6 @@ A technology aficionado with a real passion for exploring new tools and technolo
 ### Security
 <div>
     <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure Icon"/>
-    <img src="https://img.icons8.com/color/48/000000/firewall.png" alt="Firewall Icon"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark Icon" width="40" height="40"/>
     <img src="https://www.svgrepo.com/show/349350/elastic.svg" alt="Elastic Cloud Icon" width="40" height="40"/>
 
